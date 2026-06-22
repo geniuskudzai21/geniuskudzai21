@@ -35,17 +35,6 @@ Computer Science student passionate about software development, AI, and building
 - VS Code
 - Windsurf
 - OpenCode
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-![Windsurf](https://img.shields.io/badge/Windsurf-0F172A?style=for-the-badge&logo=codeium&logoColor=white)
-
-![OpenCode](https://img.shields.io/badge/OpenCode-4F46E5?style=for-the-badge)
 
 ## Projects
 
