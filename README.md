@@ -1,7 +1,7 @@
 # Hi, I'm Genius Chakanya 👋
 
 ## About Me
-Computer Science student passionate about software development, AI, and building real-world solutions.
+Final Year Computer Science student passionate about software development, AI, and building real-world solutions.
 
 - 🌱 Learning Full-Stack Development and AI Engineering
 - 💻 Building websites and web applications
@@ -15,6 +15,7 @@ Computer Science student passionate about software development, AI, and building
 - HTML5
 - CSS3
 - Tailwind CSS
+- Bootstrap
 - JavaScript
 - React/Shadcn
 
@@ -26,7 +27,7 @@ Computer Science student passionate about software development, AI, and building
 ### Databases
 - PostgreSQL
 - Supabase Database
-- Firebase Firestore
+- MongoDB
 
 ### Tools & Platforms
 - Git
@@ -35,12 +36,6 @@ Computer Science student passionate about software development, AI, and building
 - VS Code
 - Windsurf
 - OpenCode
-
-## Projects
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geniuskudzai21&show_icons=true)
 
 ## Connect With Me
 
