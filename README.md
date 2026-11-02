@@ -18,11 +18,12 @@ Final Year Computer Science student passionate about software development, AI, a
 - Bootstrap
 - JavaScript
 - React/Shadcn
+- Nextjs
 
 ### Backend
 - Supabase
 - Nodejs/Express
-- REST APIs
+- FastAPI
 
 ### Databases
 - PostgreSQL
@@ -33,9 +34,10 @@ Final Year Computer Science student passionate about software development, AI, a
 - Git
 - GitHub
 - Vercel
+- Render
 - VS Code
-- Windsurf
 - OpenCode
+- Zoho email hosting
 
 ## Connect With Me
 
